@@ -1,6 +1,6 @@
 # Fan control for TerraMaster F5-221 on Linux
 
-This is based on an [F4-220 fan control script](https://github.com/cinzas/terramaster-fancontrol), which is itself a port of the [Xpenology fancontrol script by Eudean](https://github.com/cinzas/terramaster-fancontrol) for OMV/Debian.
+This is based on an [F4-220 fan control script](https://github.com/cinzas/terramaster-fancontrol), which is itself a port of the [Xpenology fancontrol script by Eudean](https://xpenology.com/forum/topic/14007-terramaster-f4-220-fan-control/?ct=1559481439) for OMV/Debian.
 
 You can choose between reading the temperature from the disks, with _smartctl_, or reading it from the NAS motherboard (which uses an IT8613E chipset) using _lmsensors_.
 
